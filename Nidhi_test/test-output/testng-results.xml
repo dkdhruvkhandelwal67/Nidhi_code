@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16215" started-at="2019-07-21T14:58:42Z" finished-at="2019-07-21T14:58:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16215" started-at="2019-07-21T14:58:42Z" finished-at="2019-07-21T14:58:58Z">
+      <class name="Test.Test99GuruLoginWithPageFactory">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test.Test99GuruLoginWithPageFactory@2a2d45ba]" name="setup" is-config="true" duration-ms="12897" started-at="2019-07-21T14:58:42Z" finished-at="2019-07-21T14:58:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:Test.Test99GuruLoginWithPageFactory@2a2d45ba]" name="test_Home_Page_Appear_Correct" duration-ms="1970" started-at="2019-07-21T14:58:55Z" finished-at="2019-07-21T14:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Appear_Correct -->
+        <test-method status="PASS" signature="close_brower()[pri:0, instance:Test.Test99GuruLoginWithPageFactory@2a2d45ba]" name="close_brower" is-config="true" duration-ms="1323" started-at="2019-07-21T14:58:57Z" finished-at="2019-07-21T14:58:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_brower -->
+      </class> <!-- Test.Test99GuruLoginWithPageFactory -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
